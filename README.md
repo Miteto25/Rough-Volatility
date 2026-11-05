@@ -16,6 +16,4 @@ Through a comparative review of four influential studies, we investigate differe
 - Error-corrected estimators continue to provide evidence supporting rough volatility under specific modeling assumptions.
 - Apparent roughness in realized volatility does not necessarily imply that the underlying instantaneous volatility is intrinsically rough.
 
-**[Read the full literature review](Rough_Volatility_Literature_Review.pdf)**
-
 *Prepared as part of WI4800 — Scientific Writing for Applied Mathematics, TU Delft.*
